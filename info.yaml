@@ -27,13 +27,13 @@ pinout:
 
   # Outputs
   uo[0]: "output a"
-  uo[1]: "output b"
-  uo[2]: ""
+  uo[1]: ""
+  uo[2]: "output b"
   uo[3]: ""
   uo[4]: "output c"
   uo[5]: ""
   uo[6]: "output d"
-  uo[7]: "output e"
+  uo[7]: ""
 
   # Bidirectional pins
   uio[0]: ""
