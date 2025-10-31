@@ -11,9 +11,28 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+Using simply AND and OR gates are connected to several inputs a-e
+
+The goal is to get a 8-bit binary value into a 7-segment display decimal
+
 ## How to test
 
 Explain how to use your project
+
+| input a and b  | output a and b |
+|----------------|----------------|
+| 0 0            |  0 1           |
+| 0 1            |  0 0           |
+
+| input c        | output c       |
+|----------------|----------------|
+| 0              |  1             |
+| 1              |  0             |
+
+| input d and e  | output d       |
+|----------------|----------------|
+| 0 1            |  1             |
+| 1 0            |  1             |
 
 ## External hardware
 
